@@ -1,8 +1,8 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
-Name :	M.Sowmya
+Name :	K.Jhansi
 
-Roll no : 212221230107
+Roll no : 212221230045
 
 Date of experiment : 
 
@@ -75,11 +75,11 @@ int main (void)  {
 }
 ```
 # Output Screen shots: 
-![output](./mc9.1.png)
+![output](https://github.com/jhansi21005096/Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-/blob/7066be3cd4f7cde173aade38d7da7d0b65ff17e5/jmc9.1.png)
 
-![output](./mc9.2.png)
+![output](https://github.com/jhansi21005096/Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-/blob/7066be3cd4f7cde173aade38d7da7d0b65ff17e5/jmc9.2.png)
 
-![output](./mc9.3.png)
+![output](https://github.com/jhansi21005096/Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-/blob/7066be3cd4f7cde173aade38d7da7d0b65ff17e5/jmc9.3.png)
 
 
 
